@@ -1541,5 +1541,20 @@
       "FLAC": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770893496406-バースデイズ-初音ミク重音テト.mp3"
     },
     "lyrics": []
+  },
+  {
+    "id": "1770894181965",
+    "title": "I wanna be a KEMONO!",
+    "artist": "Chogakusei",
+    "album": "Single",
+    "cover": "https://t2.genius.com/unsafe/430x430/https%3A%2F%2Fimages.genius.com%2F1967bf86da764fe67a3f1bca743c3245.1000x1000x1.png",
+    "canvasUrl": "",
+    "duration": 0,
+    "sources": {
+      "128kbps": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894164306-【超学生】けものになりたい！---(320-Kbps).mp3",
+      "320kbps": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894164306-【超学生】けものになりたい！---(320-Kbps).mp3",
+      "FLAC": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894164306-【超学生】けものになりたい！---(320-Kbps).mp3"
+    },
+    "lyrics": []
   }
 ]
