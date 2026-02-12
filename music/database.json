@@ -2428,5 +2428,20 @@
         "text": "Oh, soon comes the spring, these roses will grow"
       }
     ]
+  },
+  {
+    "id": "1770895006612",
+    "title": "炜WARD ROMANCE",
+    "artist": "FLAVOR FOLEY",
+    "album": "Single",
+    "cover": "https://t2.genius.com/unsafe/430x430/https%3A%2F%2Fimages.genius.com%2F1b3d40dba375ee4c75156d2426df9d5d.1000x1000x1.png",
+    "canvasUrl": "https://media1.tenor.com/m/bvWBUQCFVQMAAAAd/flavor-foley-ward-romance.gif",
+    "duration": 0,
+    "sources": {
+      "128kbps": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894992950-炜WARD-ROMANCE-ft.-Feng-Yi---(320-Kbps).mp3",
+      "320kbps": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894992950-炜WARD-ROMANCE-ft.-Feng-Yi---(320-Kbps).mp3",
+      "FLAC": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894992950-炜WARD-ROMANCE-ft.-Feng-Yi---(320-Kbps).mp3"
+    },
+    "lyrics": []
   }
 ]
