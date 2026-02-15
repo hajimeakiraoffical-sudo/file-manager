@@ -2444,17 +2444,33 @@
         "FLAC": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/1770894992950-炜WARD-ROMANCE-ft.-Feng-Yi---(320-Kbps).mp3"
       },
       "lyrics": []
+    },
+    {
+      "id": "song-1771166916129",
+      "title": "MUFFIN",
+      "artist": "GreenyPika",
+      "artistId": "artist-1771166808071",
+      "album": "MUFFIN (Cover) 【GreenyPika x KUNI】",
+      "cover": "https://i.ytimg.com/vi/AYM04eGjrJ8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAISgQVHaSPCJbQukQ9Ti6JYAPj0A",
+      "canvasUrl": "https://i.makeagif.com/media/2-15-2026/XQjLfu.gif",
+      "duration": 0,
+      "sources": {
+        "128kbps": "https://raw.githubusercontent.com/hajimeakiraoffical-sudo/file-manager/main/music/audio/1771166912407_MUFFIN_(Cover)_GreenyPika_x_KUNI_--_Song_by_BadBoyHalo_&_CG5_-_YouTube.mp3",
+        "320kbps": "",
+        "FLAC": ""
+      },
+      "lyrics": []
     }
   ],
   "artists": [
     {
-      "id": "artist-1771166168978",
+      "id": "artist-1771166808071",
       "name": "GreenyPika",
       "photo": "https://yt3.googleusercontent.com/bF8Np3JEl5KhuuqU9WI09Iz8tjHxmXpBkqe6APrnrVq1uGUZELKBTlyQHLLeGZ0eX4VUurvIavY=s160-c-k-c0x00ffffff-no-rj",
       "bio": "I'm a panda\n\nyou'll see me on Twitch more: https://www.twitch.tv/greenypika\n\ni speak english and filipino\n\nPFP by me",
       "isVerified": true
     }
   ],
-  "albums": [],
-  "accounts": []
+  "accounts": [],
+  "albums": []
 }
